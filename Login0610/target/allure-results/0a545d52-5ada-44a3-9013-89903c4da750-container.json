@@ -1,0 +1,1 @@
+{"uuid":"0a545d52-5ada-44a3-9013-89903c4da750","name":"validateEmail()","children":["04674df0-feb8-41b4-ab54-9914bc045237"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1654848329416,"stop":1654848330704}],"afters":[],"links":[],"start":1654848329367,"stop":1654848371922}
